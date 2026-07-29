@@ -70,9 +70,4 @@ OCR 정제부터 증례 구조화, 생성 엔진, API 설계까지 AI 서비스 
 ---
 
 <div align="center">
-
-이 페이지의 모든 수치는 논문 게재본 · 평가 로그 · 실험 기록에서 실측한 값입니다.
-
-📫 [iks6164@naver.com](mailto:iks6164@naver.com)
-
 </div>
