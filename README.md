@@ -2,8 +2,6 @@
 
 # 이태호 · Lee Tae Ho
 
-**"개선했다"는 말은 측정한 뒤에만 씁니다**
-
 비정형 데이터를 정제·구조화하고, NLP·RAG·LLM 파이프라인을 AI 서비스로 구현하는 AI/Data 엔지니어
 
 [![Email](https://img.shields.io/badge/iks6164%40naver.com-03C75A?logo=naver&logoColor=white)](mailto:iks6164@naver.com)
